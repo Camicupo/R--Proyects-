@@ -1,1 +1,1 @@
-# [Link a la página](https://github.com/Camicupo/R--Proyects-/blob/main/index.html)
+# [Link a la página](https://camicupo.github.io/R--Proyects-/)
